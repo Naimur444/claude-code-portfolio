@@ -10,7 +10,7 @@ export const profile = {
   tagline:
     "I build reliable, well-crafted web applications — from clean APIs to polished interfaces.",
   location: "Dhaka, Bangladesh",
-  email: "shifat160@gmail.com",
+  email: "naimur@xcloud.host",
   // Short paragraph(s) about you. Each string is its own paragraph.
   about: [
     "I'm a software engineer who enjoys turning complex problems into simple, elegant solutions. I care about clean code, thoughtful design, and shipping things that actually work.",
